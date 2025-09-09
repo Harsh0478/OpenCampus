@@ -46,13 +46,12 @@ OpenCampus is a **College ERP Portal** designed to streamline campus management 
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js / Next.js  
 - **Backend:** Node.js / Express.js  
-- **Database:** Firebase Realtime DB / MongoDB  
-- **Authentication:** Firebase Auth / JWT  
+- **Database:** Firebase Realtime DB 
+- **Authentication:** Firebase Auth 
 
 ---
 
-## 📌 Roadmap  
-- [ ] Add push/email notifications for approvals.  
+## 📌 Roadmap    
 - [ ] Role-based dashboards (Student, Faculty, Admin).  
 - [ ] Analytics for budget, complaints, and facility usage.  
 
