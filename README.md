@@ -1,3 +1,71 @@
+# 🎓 OpenCampus – College ERP Portal  
+
+OpenCampus is a **College ERP Portal** designed to streamline campus management by providing students, faculty, and admins with a transparent and user-friendly platform.  
+
+## 🚀 Features  
+
+### 📝 Leave Request Form  
+- Students can submit leave requests online.  
+- Faculty/Admin can approve or reject requests.  
+- Real-time status tracking for students.  
+
+### 📢 Submit a Complaint  
+- Students can submit complaints anonymously or with identity.  
+- Complaints are routed to the concerned authority.  
+- Status updates ensure accountability.  
+
+### 💰 Scholarship & Budget Requests  
+- Students can request scholarships directly from the portal.  
+- Budget requests for college events/functions can be submitted.  
+- Admins review and approve with proof-based verification.  
+
+### 🏫 Campus Facility Booking  
+- Online booking system for campus facilities (e.g., auditorium, sports ground, labs).  
+- Approval from relevant authorities.  
+- Real-time availability view for students and faculty.  
+
+### 🗳️ Election Registration & Voting  
+- Students can register for election posts (President, Secretary, etc.).  
+- Voting system integrated with restrictions (no double voting, candidates cannot vote).  
+- Transparent results accessible to all.  
+
+---
+
+## 🔑 Demo Login  
+
+### 👨‍💼 Admin  
+- **Email:** `harshrathod7798@gmail.com`  
+- **Password:** `Pass@123`  
+
+### 🎓 Student  
+- **Email:** `xyz@gmail.com`  
+- **Password:** `123`  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js / Next.js  
+- **Backend:** Node.js / Express.js  
+- **Database:** Firebase Realtime DB / MongoDB  
+- **Authentication:** Firebase Auth / JWT  
+
+---
+
+## 📌 Roadmap  
+- [ ] Add push/email notifications for approvals.  
+- [ ] Role-based dashboards (Student, Faculty, Admin).  
+- [ ] Analytics for budget, complaints, and facility usage.  
+
+---
+
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+---
+✨ Built to make campus life **simpler, transparent, and digital-first**.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
